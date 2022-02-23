@@ -2,4 +2,4 @@
 Khmer Unicode Fonts Support MS Office in Mac OS
 
 - Fixed line spacing
-- Fixed Tactieng font now showing in Mac's MS Word
+- Fixed Tactieng font in old document on Mac's MS Word
