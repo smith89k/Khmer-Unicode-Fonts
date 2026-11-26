@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Khmer Unicode Fonts logo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#13223A"/><stop offset="1" stop-color="#060B15"/>
+    </linearGradient>
+    <linearGradient id="sheet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#DCE4F0"/>
+    </linearGradient>
+    <linearGradient id="acc2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7FB2FF"/><stop offset="1" stop-color="#2F6BD8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="512" height="512" rx="112" fill="url(#bg)"/>
+  <rect x="3" y="3" width="506" height="506" rx="109" fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="6"/>
+
+  <rect x="104" y="96" width="304" height="320" rx="30" fill="url(#sheet)"/>
+  <rect x="140" y="140" width="110" height="13" rx="6.5" fill="#A8B4C6"/>
+  <rect x="140" y="166" width="164" height="13" rx="6.5" fill="#C2CCDA"/>
+  <rect x="140" y="206" width="228" height="30" rx="15" fill="url(#acc2)"/>
+  <rect x="140" y="252" width="176" height="30" rx="15" fill="url(#acc2)" opacity=".55"/>
+  <rect x="140" y="304" width="140" height="13" rx="6.5" fill="#C2CCDA"/>
+  <rect x="140" y="330" width="196" height="13" rx="6.5" fill="#C2CCDA"/>
+  <g stroke="#2F6BD8" stroke-width="9" stroke-linecap="round" fill="none"><path d="M384 206 V282"/><path d="M372 216 L384 204 L396 216"/><path d="M372 272 L384 284 L396 272"/></g>
+</svg>
